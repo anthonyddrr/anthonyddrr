@@ -1,9 +1,9 @@
 # 📈🚀**ABOUT ME**:
-🔮 **I’m currently working on** <br>Building advanced data ingestion systems that turn raw figures into strategic assets, engineering financial applications focused on profit optimization, and conducting economic analyses robust enough to impress even seasoned investors.<br><br>
+🔮 **I’m currently working on:** <br>Building advanced data optimization systems that turn raw figures into strategic assets & insights, engineering financial applications focused on profit optimization, and conducting economic analyses.<br><br>
 
-🤝 **I’m looking to collaborate on** <br>Innovative projects at the frontier of financial science—developing next-generation methodologies and technologies that redefine industry standards and create tangible value, not just incremental improvements.<br><br>
+🤝 **I’m looking to collaborate on:** <br>Innovative projects at the frontier of financial science—developing next-generation methodologies and technologies that redefine industry standards and deliver tangible value beyond incremental improvements. My interests include blockchain for decentralized finance, quantum computing and annealing for complex optimization, neural networks and generative AI for predictive modeling and automation, the application of advanced quantitative methods to financial decision-making, and exploring economic and microstructure models that better capture real-world market behaviors. I’m always eager to contribute, staying informed and hands-on with emerging breakthroughs across these fields. <br><br>
 
-💡 **I’m looking for help with** <br>Partnering on the resolution of complex financial, economic, and accounting challenges—with a special focus on maximizing FP&A outcomes through advanced coding and automation. Combining rigorous analytics with scalable, tech-driven solutions is my specialty.<br><br>🌱 I’m currently learning<br>Working towards the completion of CPA PEP and actively pursuing the “holy trinity” of designations—CPA, CFA, and CBV—to complement my technical and financial expertise with recognized credentials.<br><br>
+💡 **I’m looking for help with:** <br>Partnering on the resolution of complex financial, economic, and accounting challenges—with a special focus on maximizing FP&A outcomes through advanced coding and automation. Combining rigorous analytics with scalable, tech-driven solutions is my specialty.<br><br>🌱 I’m currently learning<br>Working towards the completion of CPA PEP and actively pursuing the “holy trinity” of designations—CPA, CFA, and CBV—to complement my technical and financial expertise with recognized credentials.<br><br>
 
 💬 **Ask me about**
 - **Practical financial modeling for modern businesses**
@@ -12,7 +12,7 @@
 - **Comprehensive profit optimization strategies**
 - **Leveraging Python for powerful financial applications**
 
-⚡**Fun fact** <br>I have an uncanny ability to visualize financial value in spreadsheets and am part of a professional network that thrives on innovative finance discussions—occasionally fueled by midnight brainstorming and algorithm debugging sessions.Shadow Money Wizard Gang - we meet at midnight to discuss derivatives and debug algorithms by candlelight 🕯️
+⚡**Fun fact:** <br> I have an uncanny ability to visualize financial value in spreadsheets and am part of a professional network that thrives on innovative finance discussions—occasionally fueled by midnight brainstorming and algorithm debugging sessions. Shadow Money Wizard Gang - we meet at midnight to discuss derivatives and debug algorithms by candlelight 🕯️
 
 
 ## 🌐 Socials:
