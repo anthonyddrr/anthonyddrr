@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔮 I’m currently working on<br>Building advanced data ingestion systems that turn raw figures into strategic assets, engineering financial applications focused on profit optimization, and conducting economic analyses robust enough to impress even seasoned investors.<br><br>
+🔮 **I’m currently working on**<br>Building advanced data ingestion systems that turn raw figures into strategic assets, engineering financial applications focused on profit optimization, and conducting economic analyses robust enough to impress even seasoned investors.<br><br>
 
 🤝 I’m looking to collaborate on<br>Innovative projects at the frontier of financial science—developing next-generation methodologies and technologies that redefine industry standards and create tangible value, not just incremental improvements.<br><br>
 
